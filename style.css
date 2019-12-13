@@ -1,0 +1,44 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	background: url(seaside1.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+h1{
+	font-family: 'Meie Script', cursive;
+	color: #FFFFFF;
+
+
+}
+#div1{
+	display: flex;
+	justify-content: center;
+	margin-left: 350px;
+	margin-top: -250px;
+	font-size: 5rem;
+}
+.c{
+	font-size: 5rem;
+}
+.f {
+	font-size: 5rem;
+}
+.o{
+	font-size: 5rem;
+	color: yellow;
+}
+#div2{
+	display: flex;
+	justify-content: center;
+	margin-left: 350px;
+	margin-top: -250px;
+	font-size: 5rem;
+
+}
+.code{
+	font-size: 5rem;
+	color: #FFFFFF;
+}
